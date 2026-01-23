@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<RevitAddIns>
+
+	<AddIn Type="Application">
+
+		<Name>Him Foster</Name>
+
+		<Assembly>C:\Users\DELL\Documents\BIM\HimFoster\HimFoster\bin\Debug\net8.0-windows\HimFoster.dll</Assembly>
+
+		<AddInId>d592845c-b54e-4876-92ab-9be5f940e0e7</AddInId>
+
+		<FullClassName>HimFoster.App</FullClassName>
+
+		<VendorId>TBG Consult AB</VendorId>
+
+		<VendorDescription>HimTechLab.com</VendorDescription>
+
+	</AddIn>
+
+</RevitAddIns>
