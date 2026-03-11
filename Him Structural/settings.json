@@ -1,0 +1,8 @@
+{
+  "unit_system": "Metric",
+  "length_unit": "m",
+  "force_unit": "kN",
+  "decimals": 3,
+  "invert_bmd": false,
+  "language": "fr"
+}
