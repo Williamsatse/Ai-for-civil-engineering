@@ -1,0 +1,54 @@
+# Git ignore pour Him Structural
+
+# Fichiers environnement (NE PAS COMMIT)
+.env
+.env.local
+.env.development
+.env.production
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environnement virtuel
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Dossiers de build
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Fichiers temporaires
+*.log
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Fichiers de test
+test_output/
+coverage/
+.pytest_cache/
+
+# Données sensibles
+*.pem
+*.key
+*.cert
+
+# Sauvegardes
+*.bak
+*~
