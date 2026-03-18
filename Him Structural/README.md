@@ -8,7 +8,6 @@
 - **Calcul de portiques** : Analyse des efforts intérieurs (moment, effort tranchant, effort normal)
 - **Combinaisons d'actions** : Gestion automatique des combinaisons selon les normes
 - **Normes intégrées** :
-  - Eurocodes (EN 1990-EN 1997)
   - Normes chinoises (GB 50009, GB 50010, GB 50011, GB 50017)
 - **Gestion des langues** : Interface multilingue (Français, Anglais)
 - **Export de rapports** : Génération de rapport de calcul
