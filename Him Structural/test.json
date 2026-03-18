@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "version": "2.0",
+    "date": "2026-02-20T18:02:36.831668",
+    "app": "Foster Structural"
+  },
+  "nodes": [
+    {
+      "id": "N0000",
+      "x": 400.0,
+      "y": 400.0,
+      "supports": {
+        "dx": false,
+        "dy": false,
+        "rz": false
+      }
+    },
+    {
+      "id": "N0001",
+      "x": 800.0,
+      "y": 400.0,
+      "supports": {
+        "dx": false,
+        "dy": false,
+        "rz": false
+      }
+    },
+    {
+      "id": "N0002",
+      "x": 1000.0,
+      "y": 400.0,
+      "supports": {
+        "dx": false,
+        "dy": false,
+        "rz": false
+      }
+    },
+    {
+      "id": "N0003",
+      "x": 1200.0,
+      "y": 400.0,
+      "supports": {
+        "dx": false,
+        "dy": false,
+        "rz": false
+      }
+    },
+    {
+      "id": "N0004",
+      "x": 1400.0,
+      "y": 400.0,
+      "supports": {
+        "dx": false,
+        "dy": false,
+        "rz": false
+      }
+    },
+    {
+      "id": "N0005",
+      "x": 280.0,
+      "y": 120.0,
+      "supports": {
+        "dx": false,
+        "dy": false,
+        "rz": false
+      }
+    },
+    {
+      "id": "N0006",
+      "x": 1480.0,
+      "y": 120.0,
+      "supports": {
+        "dx": false,
+        "dy": false,
+        "rz": false
+      }
+    }
+  ],
+  "lines": [],
+  "beams": [
+    {
+      "id": "B9dc192",
+      "start_node": 0,
+      "end_node": 1,
+      "section_name": "default",
+      "material": "Steel"
+    },
+    {
+      "id": "B3ad703",
+      "start_node": 1,
+      "end_node": 2,
+      "section_name": "default",
+      "material": "Steel"
+    },
+    {
+      "id": "B1d565f",
+      "start_node": 2,
+      "end_node": 3,
+      "section_name": "default",
+      "material": "Steel"
+    },
+    {
+      "id": "B704f67",
+      "start_node": 3,
+      "end_node": 4,
+      "section_name": "default",
+      "material": "Steel"
+    },
+    {
+      "id": "B333beb",
+      "start_node": 5,
+      "end_node": 6,
+      "section_name": "Rect. 300x800",
+      "material": "Steel"
+    }
+  ],
+  "columns": [],
+  "point_loads": [],
+  "distributed_loads": []
+}
