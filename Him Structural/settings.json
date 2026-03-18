@@ -1,0 +1,10 @@
+{
+  "unit_system": "Metric",
+  "length_unit": "m",
+  "force_unit": "kN",
+  "decimals": 3,
+  "invert_bmd": false,
+  "language": "fr",
+  "calc_cover": 50.0,
+  "calc_steel_grade": "HRB335"
+}
